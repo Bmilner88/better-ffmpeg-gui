@@ -1,6 +1,6 @@
 # better-ffmpeg-gui
 
-An Electron application with Vue and TypeScript
+An Electron application with React
 
 ## Recommended IDE Setup
 
