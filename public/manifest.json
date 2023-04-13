@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Better FFMPEG GUI",
+  "name": "A Better FFMPEG GUI",
   "icons": [
     {
       "src": "favicon.ico",
